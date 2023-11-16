@@ -31,7 +31,7 @@ This repository contains Python scripts for backing up data from an Android devi
 - USB debugging enabled on the Android devices
 ## Installation
 1.	Clone this repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Samuelnyarko/AndroidCloneCraftPy.git
 2.	Navigate to the repository directory:
 ## Usage
 3.	### Backup
@@ -61,4 +61,4 @@ Contributions, issues, and feature requests are welcome.
 Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Samuel Nyarko samuelbj123@gmail.com
-Project Link: [[https://github.com/Samuelnyarko](https://github.com/Samuelnyarko/AndroidCloneCraftPy.git)]
+Project Link: [[https://github.com/Samuelnyarko](https://github.com/Samuelnyarko/AndroidCloneCraftPy/tree/main)]
