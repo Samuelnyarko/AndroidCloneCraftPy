@@ -1,0 +1,20 @@
+# Requirements for Android Backup and Restore Utility
+
+# Python Standard Libraries (No external Python packages are required):
+# - subprocess
+# - os
+# - time
+
+# External Requirements:
+
+# 1. ADB (Android Debug Bridge):
+#    - Windows: Download the SDK Platform Tools from https://developer.android.com/studio/releases/platform-tools
+#    - MacOS/Linux: Use a package manager like Homebrew (Mac) or apt (Linux).
+#    - Extract the downloaded file and add the 'platform-tools' directory to your PATH.
+
+# 2. Android USB Drivers (for Windows users):
+#    - Visit https://developer.android.com/studio/run/oem-usb and follow the instructions to download and install the USB driver for your specific device.
+#    - Ensure that the drivers are correctly installed and that your device is recognised by your system.
+
+# Note: USB debugging must be enabled on Android devices for these scripts to work.
+#  This can usually be done in the Developer Options in the Android Settings.
