@@ -61,5 +61,4 @@ Contributions, issues, and feature requests are welcome.
 Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Samuel Nyarko samuelbj123@gmail.com
-Project Link: [[https://github.com/your-username/your-repo-name](https://github.com/Samuelnyarko/AndroidCloneCraftPy.git)https://github.com/Samuelnyarko/AndroidCloneCraftPy.git]
-
+Project Link: [[https://github.com/Samuelnyarko](https://github.com/Samuelnyarko/AndroidCloneCraftPy.git)]
